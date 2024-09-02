@@ -1,6 +1,6 @@
 #EXTM3U
 #EXTINF:-1 tvg-id="" tvg-name="Regreso a Cold Mountain" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/mKv7wrVVGg7JNLfOnBomEh0hu1n.jpg" group-title="→ VOD DRAMA ←",Regreso a Cold Mountain
-http://fastream.xyz:8080/movie/987897711tv/28m7v3/252405.mp4
+https://ssc1-ak.akamaized.net/out/v1/c696e4819b55414388a1a487e8a45ca1/index.mpd?%7CdrmScheme=clearkey&drmLicense=d84c325f36814f39bbe59080272b10c3:550727de4c96ef1ecff874905493580f
 #EXTINF:-1 tvg-id="" tvg-name="Proyecto Exorcismo" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/c0daWffGoQpk5Y0LZuQ3gFwisdF.jpg" group-title="→ VOD TERROR ←",Proyecto Exorcismo
 http://fastream.xyz:8080/movie/987897711tv/28m7v3/252396.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Exorcismo en el Vaticano" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/iNVMjGOA7VB91DObBIrP1JG8J6L.jpg" group-title="→ VOD TERROR ←",Exorcismo en el Vaticano
